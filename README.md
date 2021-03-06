@@ -1,2 +1,4 @@
 # hello-world
-Repositorio de prueba
+Repositorio de prueba, 
+
+Probando las ramas (branch) de un repositorio
